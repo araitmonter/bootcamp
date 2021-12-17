@@ -1,5 +1,5 @@
-let nombre = "Lia";
-let numeroFav = 6;
+let nombre = "Arait";
+let numeroFav = 9;
 let tienesMascotas = true;
 
 console.log("Mi nombre es " + nombre + ".");

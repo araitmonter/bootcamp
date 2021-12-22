@@ -1,0 +1,23 @@
+body {
+    background-color: green;
+}
+h1 {
+    color: black;
+}
+
+p.cursiva{
+    font-style: italic;
+    color: white
+}
+
+p.amarillo{
+    font-family: 'Courier New', Courier, monospace;
+    color: yellow;
+}
+p.beige{
+    color: wheat;
+}
+p.rojo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: tomato;
+}

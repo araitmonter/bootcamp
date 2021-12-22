@@ -1,0 +1,24 @@
+body{
+    background-image: url(https://totalwallcovering.com/images/product/henrik-light-grey-floral-wallpaper-oxby-l.jpg);}
+
+.title{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.subtitle{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.caja{
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+}
+.rojo{
+    background-color: crimson;
+}
+.verde{
+    background-color: darkgreen;
+}
+.azul{
+    background-color: dodgerblue;
+}

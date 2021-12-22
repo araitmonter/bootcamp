@@ -1,0 +1,15 @@
+body{
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(18, 92, 22);
+    color: snow;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: skyblue;
+}
+.centrado{
+    text-align: center;
+}
+
+
+
